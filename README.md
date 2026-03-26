@@ -24,7 +24,7 @@ The RootCompanion plugin connects your Minecraft server to Command Block, a Root
 
 6. Enter your server's IP, the API key from `config.yml`, and the API port (default: 8080)
 
-7. Click **Test Connection & Save** — your server will appear on the dashboard with real-time data
+7. Click **Test Connection & Save** - your server will appear on the dashboard with real-time data
 
 ## What It Does
 
@@ -51,4 +51,4 @@ The API key authenticates the connection between your server and Command Block. 
 
 ## Support
 
-For issues or questions, reach out through your Root community or contact the Command Block team.
+For issues or questions, please reach out in the [Root Official Community](https://rootapp.gg/root)
