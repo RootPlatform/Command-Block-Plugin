@@ -1,6 +1,6 @@
 # Command Block - Companion Plugin
 
-The RootCompanion plugin connects your Minecraft server to [Command Block](https://root.app), a Root app for managing and monitoring your Minecraft server from within your community.
+The RootCompanion plugin connects your Minecraft server to Command Block, a Root app for managing and monitoring your Minecraft server from within your community.
 
 **This plugin is only intended for use with the Command Block Root app.** It does not function as a standalone plugin.
 
